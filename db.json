@@ -1,0 +1,31 @@
+{
+  "featured": [
+    {
+      "id": 1,
+      "img": "productsSample.jpg",
+      "brand": "One brand",
+      "title": "Vestido longo branco",
+      "price": "R$ 249",
+      "priceCondition": "ou 2x de R$124,50",
+      "featured": "true"
+    },
+    {
+      "id": 2,
+      "img": "productsSample.jpg",
+      "brand": "Two brand",
+      "title": "Vestido longo branco",
+      "price": "R$ 249",
+      "priceCondition": "ou 2x de R$124,50",
+      "featured": "true"
+    },
+    {
+      "id": 3,
+      "img": "productsSample.jpg",
+      "brand": "Three brand",
+      "title": "Vestido longo branco",
+      "price": "R$ 249",
+      "priceCondition": "ou 2x de R$124,50",
+      "featured": "true"
+    }
+  ]
+}
