@@ -2,7 +2,7 @@
   "featured": [
     {
       "id": 1,
-      "img": "productsSample.jpg",
+      "img": "https://img.kleinfeldbridalparty.com/_img/KBPRODUCTS/2276402/320/champagne--dress-KL-300136-c.jpg",
       "brand": "One brand",
       "title": "Vestido longo branco",
       "price": "R$ 249",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "productsSample.jpg",
+      "img": "https://img.kleinfeldbridalparty.com/_img/KBPRODUCTS/2276402/320/champagne--dress-KL-300136-c.jpg",
       "brand": "Two brand",
       "title": "Vestido longo branco",
       "price": "R$ 249",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "img": "productsSample.jpg",
+      "img": "https://img.kleinfeldbridalparty.com/_img/KBPRODUCTS/2276402/320/champagne--dress-KL-300136-c.jpg",
       "brand": "Three brand",
       "title": "Vestido longo branco",
       "price": "R$ 249",
