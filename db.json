@@ -27,5 +27,43 @@
       "priceCondition": "ou 2x de R$124,50",
       "featured": "true"
     }
+  ],
+  "filter": [
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    },
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
+    {
+      "name": "Placeholder",
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+    }
   ]
 }
