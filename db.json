@@ -31,39 +31,48 @@
   "filter": [
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id": 1
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id": 2
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id": 3
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id": 4
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id":5
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id":6
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id":7
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id":8
     },
     {
       "name": "Placeholder",
-      "icon": "https://www.svgrepo.com/show/80769/dress.svg"
+      "icon": "https://www.svgrepo.com/show/80769/dress.svg",
+      "id":9
     }
   ]
 }
